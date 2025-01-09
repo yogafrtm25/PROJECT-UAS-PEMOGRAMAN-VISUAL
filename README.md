@@ -1,5 +1,4 @@
 Nama    : Yoga Pratama
-
 NIM      : 312210042
 
 Kelas    : TI.22.A.4
