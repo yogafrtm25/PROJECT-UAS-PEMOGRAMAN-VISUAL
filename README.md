@@ -1,6 +1,8 @@
 Nama Kelompok  : 1. Yoga Pratama (312210042
+                
                  2. Bayu Maulana Ayassy (312210166)
-                 3. Cahyo Hidayatullah (
+                 
+                 3. Cahyo Hidayatullah (312210079)
 
 Kelas          : TI.22.A.4
 
