@@ -1,9 +1,10 @@
-Nama    : Yoga Pratama
-NIM      : 312210042
+Nama Kelompok  : 1. Yoga Pratama (312210042
+                 2. Bayu Maulana Ayassy (312210166)
+                 3. Cahyo Hidayatullah (
 
-Kelas    : TI.22.A.4
+Kelas          : TI.22.A.4
 
-Dosen   : Eko Budiarto, S.Kom., M.M.
+Dosen          : Eko Budiarto, S.Kom., M.M.
 
 # SISTEM APLIKASI APOTEK
 
